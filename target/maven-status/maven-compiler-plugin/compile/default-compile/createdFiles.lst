@@ -1,0 +1,9 @@
+net/csobik/cmtree/service/types/Color.class
+net/csobik/cmtree/service/NodeColorChangeObserver.class
+net/csobik/cmtree/commands/CmTreeCommands.class
+net/csobik/cmtree/config/NoAutoConf.class
+net/csobik/cmtree/service/NodeId.class
+net/csobik/cmtree/service/NodeColor.class
+net/csobik/cmtree/SpringShellCmTree.class
+net/csobik/cmtree/service/NodeColorService.class
+net/csobik/cmtree/service/NodeColorChangeObservable.class

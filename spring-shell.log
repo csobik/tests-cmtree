@@ -1,0 +1,117 @@
+1515225808092:exit
+1515227104440:help
+1515227389182:quote
+1515227402687:quote ss"\n\nss"
+1515227411039:quote ss"\n\n:\n"
+1515227420702:help
+1515227556018:shutdown
+1515227560461:shutdown --force
+1515227597269:hello-world
+1515229004393:exit
+1515273824792:help
+1515273837380:init
+1515274331261:help
+1515274338159:init
+1515274360828:add
+1515274381539:init {asa}
+1515274465679:init --node-map {"1":["2","3"],"3",["4"]}
+1515274485433:init --node-map {"1":["2","3"],"3",["4"]} --init-colors {}
+1515274513982:init --node-map '{"1":["2","3"],"3",["4"]}' --init-colors ""
+1515274533303:init --node-map '{"1":["2","3"],"3",["4"]}' --init-colors ''
+1515274571354:init --node-map "{\\"1\\":[\\"2\\",\\"3\\"],\\"3\\",[\\"4\\"]}" --init-colors ""
+1515274604847:init --node-map='{"1":["2","3"],"3",["4"]}' --init-colors=""
+1515274852147:init '{"1":["2","3"],"3",["4"]}' ""
+1515274864152:'{"1":["2","3"],"3",["4"]}' ''
+1515274878091:init '{"1":["2","3"],"3",["4"]}' ''
+1515274897166:init --node-map='{"1":["2","3"],"3",["4"]}' --init-colors=""
+1515275364136:nit
+1515275365934:init
+1515276324056:print
+1515276338606:exit
+1515276508128:init
+1515276510287:print
+1515276619081:exit
+1515276701787:init
+1515276703833:print
+1515276750993:exit
+1515277419165:init
+1515277420709:print
+1515277764330:exit
+1515277792739:print
+1515277795788:init
+1515277798080:print
+1515277977442:exit
+1515278008190:print
+1515278013006:help
+1515278017044:print
+1515278022964:change-colors
+1515278024649:print
+1515278038419:exit
+1515278084774:change-colors
+1515278463332:change-color
+1515278474916:change-colors
+1515278505329:print
+1515278511265:exit
+1515278648902:print
+1515278659227:change-colors
+1515278666709:change-colors --setter
+1515278700432:change-colors --setter --node-color
+1515278710782:change-colors --setter 1
+1515278721269:change-colors --setter {}
+1515278875812:exit
+1515279012414:change-colors
+1515279020507:change-colors1
+1515279037676:exit
+1515279179350:change-colors
+1515279295935:change-colors1
+1515280037076:init
+1515280051142:change-colors
+1515280573628:change-colors1
+1515280602148:exir
+1515280604643:exit
+1515281100115:change-colors
+1515281553078:print
+1515281756054:change-colors
+1515282365669:change-colors1
+1515282400847:exit
+1515282430788:print
+1515282438908:change-colors
+1515282446288:change-colors1
+1515282449266:change-colors
+1515282451306:change-colors1
+1515282455096:change-colors
+1515282555313:change-colors1
+1515282569295:exit
+1515316099599:print
+1515316459761:change-colors
+1515316468269:change-colors ""
+1515316824010:change-password
+1515316834814:change-password asc
+1515316854562:change-password "dadada"
+1515316874206:change-collors "--"
+1515316892010:change-color " "
+1515316905383:change-colors " "
+1515321402353:change-colors
+1515321413947:change-colors " "
+1515321690759:change-colors {"nodeId":{"id":4},"color":"black","priority":100,"children":[]}
+1515321725571:change-colors "{\\"nodeId\\":{\\"id\\":4},\\"color\\":\\"black\\",\\"priority\\":100,\\"children\\":[]}"
+1515321745794:exit
+1515321822819:change-colors '{"nodeId":{"id":4},"color":"black","priority":100,"children":[]}'
+1515321847380:change-colors '{"nodeId":{"id":4},"color":"black","priority":100}'
+1515322138303:change-colors '{"nodeId":{"id":4},"color":"black","priority":100,"children":[]}'
+1515322367278:change-colors '{"nodeId":{"id":4},"color":"white","priority":1,"children":[]}'
+1515322628234:exit
+1515322658333:h
+1515322661375:help
+1515322678828:change-colors '{"nodeId":{"id":4},"color":"black","priority":100,"children":[]}'
+1515322694812:change-colors '{"nodeId":{"id":4},"color":"white","priority":1,"children":[]}'
+1515322786503:exit
+1515322812915:change-colors '{"nodeId":{"id":4},"color":"white","priority":1,"children":[]}'
+1515322821286:change-colors '{"nodeId":{"id":4},"color":"red","priority":100,"children":[]}'
+1515322833182:change-colors '{"nodeId":{"id":3},"color":"red","priority":50,"children":[]}'
+1515322856637:exit
+1515323604823:help
+1515323615299:change-colors '{"nodeId":{"id":3},"color":"red","priority":50}'
+1515323628591:change-colors '{"nodeId":{"id":3},"color":"black","priority":100}'
+1515323644782:help
+1515323664236:exit
